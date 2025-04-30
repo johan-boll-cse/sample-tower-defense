@@ -6,7 +6,7 @@ let enemy = {
   y: 280,
   width: 20,
   height: 20,
-  speed: 1
+  speed: 5
 };
 
 function drawEnemy() {
